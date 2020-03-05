@@ -1,0 +1,174 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\b058adb8a8ee673ceb96f416cd7aac87\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\b3d4cd58fabce829a8b83dc4ee848068\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\0690bf2e922b67538731a77686bcd66f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\d4e7a359050ddf3e34a8e4b6a6e7e76a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\90ffa7442375925a413618ca2e2ef385\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\ebedbb9b8195344051635c8de40d1537\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\f025af3b3d0c85f9e945fe4da3e6a518\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\62a89fdf089cc4c7b45f1ec32e13de87\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\ace26bac25ceb3b861dae673ee998799\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\e52075f99253a44befd64078aea9db54\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\c8cbf58a85e3eabba8996629cf943ec9\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\d9d00afd6702a895ec93f2550e521dcc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\1ee40a18503fe397b900dcf7ab45c0bc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\9aa0679516b7d9a8e3658a430b9f5152\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\9de8b4e6078521b51bb86ae1cb6a95af\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\5c00a8cbc102b3ef0ed9f397d25cb067\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\585aebbfe78e5fa10153403e2931471f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\48946d28a4d9860423c663a9ed29d8a7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\8f40f7b5746dc9cc5a91faa152343385\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\097b8d37b6322547a10624445618c928\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\a48f93536574bc9ebc798e4b28f89e77\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\16da4aa5fd1e58558c736dc0354b6e80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\19762c415c9a06930e18595fdfea4951\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\cba035ab1c74f086184b45082e080d32\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\0a2fdcf79525bf7240f738a758fbb5bf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\958c3384bee6280ec0d96c23419a31ef\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\97de41cd108cd153fae42602c4f3429f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\01ea1fd2ce76cc1055d5b62f872bd669\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\def877c40dd2fde03cd26c4d880054b3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\7d2058b84c9d640d40c474a9c39aad08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\a69de13fcd20b3bfbe2131395b5c37c5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\c2c9592baf4bdcd1483499a073fce0b7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\8c843ab17421449defd3df86b547517b\AndroidManifest.xml:2:1-11:12
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\b058adb8a8ee673ceb96f416cd7aac87\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\b058adb8a8ee673ceb96f416cd7aac87\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\097b8d37b6322547a10624445618c928\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\097b8d37b6322547a10624445618c928\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\a48f93536574bc9ebc798e4b28f89e77\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\a48f93536574bc9ebc798e4b28f89e77\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\8c843ab17421449defd3df86b547517b\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\8c843ab17421449defd3df86b547517b\AndroidManifest.xml:9:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\097b8d37b6322547a10624445618c928\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.emerald.mycalendar.MainActivity
+ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:name
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\b058adb8a8ee673ceb96f416cd7aac87\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\b058adb8a8ee673ceb96f416cd7aac87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\b3d4cd58fabce829a8b83dc4ee848068\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\b3d4cd58fabce829a8b83dc4ee848068\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\0690bf2e922b67538731a77686bcd66f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\0690bf2e922b67538731a77686bcd66f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\d4e7a359050ddf3e34a8e4b6a6e7e76a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\d4e7a359050ddf3e34a8e4b6a6e7e76a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\90ffa7442375925a413618ca2e2ef385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\90ffa7442375925a413618ca2e2ef385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\ebedbb9b8195344051635c8de40d1537\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\ebedbb9b8195344051635c8de40d1537\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\f025af3b3d0c85f9e945fe4da3e6a518\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\f025af3b3d0c85f9e945fe4da3e6a518\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\62a89fdf089cc4c7b45f1ec32e13de87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\62a89fdf089cc4c7b45f1ec32e13de87\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\ace26bac25ceb3b861dae673ee998799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\ace26bac25ceb3b861dae673ee998799\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\e52075f99253a44befd64078aea9db54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\e52075f99253a44befd64078aea9db54\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\c8cbf58a85e3eabba8996629cf943ec9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\c8cbf58a85e3eabba8996629cf943ec9\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\d9d00afd6702a895ec93f2550e521dcc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\d9d00afd6702a895ec93f2550e521dcc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\1ee40a18503fe397b900dcf7ab45c0bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\1ee40a18503fe397b900dcf7ab45c0bc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\9aa0679516b7d9a8e3658a430b9f5152\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\9aa0679516b7d9a8e3658a430b9f5152\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\9de8b4e6078521b51bb86ae1cb6a95af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\9de8b4e6078521b51bb86ae1cb6a95af\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\5c00a8cbc102b3ef0ed9f397d25cb067\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\5c00a8cbc102b3ef0ed9f397d25cb067\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\585aebbfe78e5fa10153403e2931471f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\585aebbfe78e5fa10153403e2931471f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\48946d28a4d9860423c663a9ed29d8a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\48946d28a4d9860423c663a9ed29d8a7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\8f40f7b5746dc9cc5a91faa152343385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\8f40f7b5746dc9cc5a91faa152343385\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\097b8d37b6322547a10624445618c928\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\097b8d37b6322547a10624445618c928\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\a48f93536574bc9ebc798e4b28f89e77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\a48f93536574bc9ebc798e4b28f89e77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\16da4aa5fd1e58558c736dc0354b6e80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\16da4aa5fd1e58558c736dc0354b6e80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\19762c415c9a06930e18595fdfea4951\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\19762c415c9a06930e18595fdfea4951\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\cba035ab1c74f086184b45082e080d32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\cba035ab1c74f086184b45082e080d32\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\0a2fdcf79525bf7240f738a758fbb5bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\0a2fdcf79525bf7240f738a758fbb5bf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\958c3384bee6280ec0d96c23419a31ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\958c3384bee6280ec0d96c23419a31ef\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\97de41cd108cd153fae42602c4f3429f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\97de41cd108cd153fae42602c4f3429f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\01ea1fd2ce76cc1055d5b62f872bd669\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\01ea1fd2ce76cc1055d5b62f872bd669\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\def877c40dd2fde03cd26c4d880054b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\def877c40dd2fde03cd26c4d880054b3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\7d2058b84c9d640d40c474a9c39aad08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\7d2058b84c9d640d40c474a9c39aad08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\a69de13fcd20b3bfbe2131395b5c37c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\a69de13fcd20b3bfbe2131395b5c37c5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\c2c9592baf4bdcd1483499a073fce0b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\c2c9592baf4bdcd1483499a073fce0b7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\8c843ab17421449defd3df86b547517b\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\sdg.internee5\.gradle\caches\transforms-2\files-2.1\8c843ab17421449defd3df86b547517b\AndroidManifest.xml:5:5-7:41
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+		ADDED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Abdul Hadi\myHorizontalCalendar-master\myHorizontalCalendar-master\app\src\main\AndroidManifest.xml
